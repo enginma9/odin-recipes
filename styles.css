@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  color: white;
+
+}
+
+img {
+  height: auto;
+  width: 200px;
+  border-radius: 15px;
+}
+
+
+a{
+  text-decoration: none;
+  font-weight: 700;
+  color: white;
+}
+
+#Bottom_Links{
+  position:fixed;
+  bottom:0;
+  right:0;
+  width: 400px;
+  color: white;
+}

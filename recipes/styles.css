@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  color: white;
+
+}
+
+img {
+  height: 300;
+  width: 400px;
+  border-radius: 15px;
+}
+
+a{
+  text-decoration: none;
+  font-weight: 700;
+  color: white;
+}
